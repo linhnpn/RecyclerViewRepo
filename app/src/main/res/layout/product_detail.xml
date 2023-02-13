@@ -8,15 +8,19 @@
 
         <ImageView
             android:id="@+id/product_image"
+            android:background="#FFB6C1"
             android:layout_width="120dp"
+            android:minWidth="120dp"
+            android:minHeight="170dp"
             android:layout_height="170dp">
 
         </ImageView>
         <TextView
             android:id="@+id/product_name"
+            android:gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/product_image"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black" />
 
 </RelativeLayout>

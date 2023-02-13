@@ -7,6 +7,7 @@
     tools:context=".ListProduct">
 
     <LinearLayout
+        android:background="#FF0000"
         android:id="@+id/navbars"
         android:layout_width="match_parent"
         android:layout_height="110dp"
@@ -28,6 +29,7 @@
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="220dp"
+                android:layout_marginTop="10dp"
                 android:layout_height="match_parent"
                 android:text="Shop"
                 android:textColor="@color/black"
