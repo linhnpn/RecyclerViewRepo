@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ProductRecyclerView</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="cart_item_1">Cart item 1</string>
+    <string name="cart_item_2">Cart item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="sub_item_1">Sub Item</string>
+    <string name="sub_item_2">Sub item 2</string>
 </resources>
